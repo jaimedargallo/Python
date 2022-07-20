@@ -1,0 +1,102 @@
+Python 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+5+5
+10
+num = 15
+num
+15
+num = 8
+num
+8
+num + num
+16
+
+
+edad= 24
+EDAD = 15
+edad
+24
+Edad = 70
+edad = 25
+edad
+25
+
+type (3.5)
+<class 'float'>
+
+house = "house"
+type ("house")
+<class 'str'>
+
+type (True)
+<class 'bool'>
+house = True
+
+house
+True
+nombre = "Jaime"
+nombre
+'Jaime'
+house = "5"
+house + 5
+Traceback (most recent call last):
+  File "<pyshell#30>", line 1, in <module>
+    house + 5
+TypeError: can only concatenate str (not "int") to str
+len ( nombre)
+5
+
+nombre[0]
+'J'
+
+frase = "¡Hola, Mundo!"
+frase[6]
+' '
+
+frase[3:6]
+'la,'
+
+frase[3:]
+'la, Mundo!'
+len (frase)
+13
+frase[:13]
+'¡Hola, Mundo!'
+frase[:]
+'¡Hola, Mundo!'
+frase[1:13:2]
+'Hl,Mno'
+
+____________________________________
+************* Metodos **************        
+************************************
+____________________________________
+
+
+
+<cadena>.<método>(<valores>)
+
+<cadena>.capitalize()
+
+nombre = "jaime"
+nombre.capitalize()
+'Jaime'
+
+
+find
+index
+isalnum
+isalpha
+isdecimal
+isdigit
+islower
+isupper
+lower
+upper
+
+
+____________________________________
+********* Recibiendo datos *********     
+************************************
+____________________________________
+
